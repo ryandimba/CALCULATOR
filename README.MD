@@ -1,0 +1,1 @@
+This is a calculator functioning where one can do calculation and get a right answer. It is generated using html,css and javascript and emerged making it work and function.
